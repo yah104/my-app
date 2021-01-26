@@ -21,8 +21,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Internship at OmniSync Inc. <span>2021-present</span></h2>
+                        <p>* I recently have joined OmniSync Inc. as a Software Developer-Intern in the Fullstack team.</p>
+                        <p>Company: OmniSync Inc.</p>
+                        <p>Location: San Diego, CA</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +34,11 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Computer Science Tutor <span>01/2020-03/2020</span></h2>
+                        <p>* Helped students solve their coding problems on projects and answered logical questions in Intro Java course.</p>
+                        <p>* Answered questions regarding course concepts on Piazza for Java programming.</p>
+                        <p>Company: UCSD Jacobs School of Engineering</p>
+                        <p>Location: San Diego, CA</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +48,24 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Research and Development Assistant Intern <span>07/2019-08/2019</span></h2>
+                        <p>* Assembled magnetic sensors in the Production Department.</p>
+                        <p>* Tested experiments and wrote experiment reports about high-temperature resistance of the magnetic sensor.</p>
+                        <p>Company: Magtron Intelligent Tech Inc.</p>
+                        <p>Location: Jiaxing, Zhejiang, China</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Financial Market Department Assistant Intern <span>06/2017-08/2017</span></h2>
+                        <p>* Read and checked data for personal loans for housing and printed documents.</p>
+                        <p>Company: China Minsheng Banking Corp-Jiaxing, Zhejiang</p>
+                        <p>Location: Jiaxing, Zhejiang, China</p>
                       </div>
                     </div>
                   </article>
