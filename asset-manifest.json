@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.e67b21ac.chunk.css",
-    "main.js": "/my-app/static/js/main.ec9cde5e.chunk.js",
-    "main.js.map": "/my-app/static/js/main.ec9cde5e.chunk.js.map",
+    "main.js": "/my-app/static/js/main.7051bbab.chunk.js",
+    "main.js.map": "/my-app/static/js/main.7051bbab.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.4a88df54.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.4a88df54.js.map",
     "static/js/2.7599c84a.chunk.js": "/my-app/static/js/2.7599c84a.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/my-app/index.html",
     "static/css/main.e67b21ac.chunk.css.map": "/my-app/static/css/main.e67b21ac.chunk.css.map",
     "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/my-app/static/js/2.7599c84a.chunk.js.LICENSE.txt",
-    "static/media/daidai.9ba393fa.jpg": "/my-app/static/media/daidai.9ba393fa.jpg"
+    "static/media/dai3.52144d22.jpg": "/my-app/static/media/dai3.52144d22.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4a88df54.js",
     "static/js/2.7599c84a.chunk.js",
     "static/css/main.e67b21ac.chunk.css",
-    "static/js/main.ec9cde5e.chunk.js"
+    "static/js/main.7051bbab.chunk.js"
   ]
 }
